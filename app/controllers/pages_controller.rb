@@ -4,7 +4,9 @@ def home
 
 end 
 
-  def about
+def about
 
-  end
+end
+  
+
 end 
